@@ -1,0 +1,4 @@
+com/nike/it/tests/GetPageIT.class
+com/nike/it/tests/CreatePageIT.class
+com/nike/it/tests/PublishPageValidationIT.class
+com/nike/it/tests/HtmlUnitClient.class

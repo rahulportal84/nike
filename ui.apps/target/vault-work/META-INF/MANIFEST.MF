@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 17
+Implementation-Title: Nike - UI apps
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.nike:nike.ui.apps:1.0.0-SNAPSHOT
+Content-Package-Description: UI apps package for Nike
+Content-Package-Roots: /apps/nike/clientlibs,/apps/nike/components,/apps
+ /nike/i18n
+Import-Package: com.nike.core.models;version="[1.0.0,2.0.0)",org.apache.
+ sling.scripting.sightly;version="[2.0.0,3.0.0)"
+
